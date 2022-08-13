@@ -4,22 +4,22 @@
 
 **The simplest way to define me would be , an ambivert with huge love for programming.Not just the cool stuff😎, the hard stuff too. Learning literally pumps me up!!!** 
 
-**Just like Albert Einstein's quote:**
+**Just like Albert Einstein's quote**
 > Learning is experience. Everything else is just information.
 
-** These are the languages I know:**
+** These are the languages I know**
 -Python
 -C++(Still learning)
 
-** Certs I have**
+** Certs I have **
 - I currently don't have any certfications.
 
 
 ##                                                                Stats📃
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DarkGreenSky32x32/github-readme-stats)
 
 
 
 
-
-                                                     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkGreenSky32x32)](https://github.com/anuraghazra/github-readme-stats)
+                                                    

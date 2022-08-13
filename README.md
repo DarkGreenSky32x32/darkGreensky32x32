@@ -8,11 +8,11 @@
 > Learning is experience. Everything else is just information.
 
  **These are the languages I know
--Python
--C++(Still learning)
+- Python
+- C++(Still learning)
 
 **Certs I have**
-**- I currently don't have any certfications.
+** - I currently don't have any certfications.
 
 
 ##                                                                Stats📃
